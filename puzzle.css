@@ -1,0 +1,48 @@
+  *{
+    background-color: rgb(220, 246, 237);
+  }
+  .container{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin: 0 auto;
+
+  }
+  
+  
+  
+ 
+  
+  #text div {
+    position:relative;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin: 0;
+    background:rgb(239, 243, 240);
+    border: 1px solid black;
+  }
+  
+  #text {
+    width:50%;
+    height:614px;
+    margin:auto;
+  }
+  
+  #images {
+    width: 30%
+  }
+  
+  img {
+    height: 200px;
+    width: 200px;
+  }
+  
+  #images div {
+    height: 200px;
+    width: 200px;
+    
+    display: inline-block;
+  }
+  
+  
